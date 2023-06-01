@@ -5,8 +5,6 @@
 #include <SPI.h>
 const int enbA = 3;
 const int enbB = 5;
-// Motorların kontrol pimlerini tanımlayın
-// Motorlar ters yönde dönerse, aşağıdaki pin numaralarının pozisyonlarını değiştirebilirsiniz.
 const int IN1 = 2;    // Sağ Motor (-)
 const int IN2 = 4;    // Sağ Motor (+)
 const int IN3 = 7;   // Sol Motor (+)
